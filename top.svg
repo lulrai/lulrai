@@ -1,5 +1,5 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-    <foreignObject>
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="190px" height="70px">
+    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 @keyframes hi  {
@@ -14,7 +14,7 @@
                 }
 
                 .container {
-                    color: black;
+                    color: white;
                     display: flex;
                     align-items: left;
                     justify-content: left;
@@ -27,17 +27,12 @@
                     animation: hi 1.5s linear -0.5s infinite;
                     display: inline-block;
                     transform-origin: 70% 70%;
+                    left: -10px;
                 }
 
                 @media (prefers-reduced-motion) {
                     .hi {
                         animation: none;
-                    }
-                }
-
-                @media (prefers-color-scheme: dark, no-preference) {
-                    .container {
-                        color: white;
                     }
                 }
 
@@ -48,7 +43,7 @@
                 }
             </style>
             <div class="container">
-                <h1>Hello <div class="hi">👋</div> my name is Nischal!</h1>
+                <h1>Welcome <div class="hi">👋</div></h1>
             </div>
         </div>
     </foreignObject>
