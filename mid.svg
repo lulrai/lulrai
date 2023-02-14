@@ -1,0 +1,54 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                #container {
+                    color: white;
+                    display: flex;
+                    align-items: left;
+                    justify-content: left;
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                    width: fit-content;
+                    height: fit-content;
+                }
+
+                .hi {
+                    animation: hi 1.5s linear -0.5s infinite;
+                    display: inline-block;
+                    transform-origin: 70% 70%;
+                    left: -10px;
+                }
+
+                @media (prefers-reduced-motion) {
+                    .hi {
+                        animation: none;
+                    }
+                }
+
+                @media (prefers-color-scheme: light) {
+                    .container {
+                        color: black;
+                    }
+                }
+                
+                @media (prefers-color-scheme: dark, no-preference) {
+                    .container {
+                        color: white;
+                    }
+                }
+            </style>
+            <div id="container" align="center">
+                <div width="50px" align="left">
+                <h3>Interests</h3>
+                &nbsp;&nbsp; 🌱 Test <br/>
+                &nbsp;&nbsp; 🌱 Test
+                </div>
+                <div width="50px" align="left">
+                <h3>Hobbies</h3>
+                &nbsp;&nbsp; 🌱 Test <br/>
+                &nbsp;&nbsp; 🌱 Test
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
