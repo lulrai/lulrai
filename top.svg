@@ -41,6 +41,12 @@
                         color: black;
                     }
                 }
+                
+                @media (prefers-color-scheme: dark, no-preference) {
+                    .container {
+                        color: white;
+                    }
+                }
             </style>
             <div class="container">
                 <h1>Welcome <div class="hi">👋</div></h1>
