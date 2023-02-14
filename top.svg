@@ -14,7 +14,7 @@
                 }
 
                 .container {
-                    color: white;
+                    color: #C8487C;
                     display: flex;
                     align-items: left;
                     justify-content: left;
@@ -33,18 +33,6 @@
                 @media (prefers-reduced-motion) {
                     .hi {
                         animation: none;
-                    }
-                }
-
-                @media (prefers-color-scheme: light) {
-                    .container {
-                        color: black;
-                    }
-                }
-                
-                @media (prefers-color-scheme: dark, no-preference) {
-                    .container {
-                        color: white;
                     }
                 }
             </style>
