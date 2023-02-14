@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <foreignObject>
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 @keyframes hi  {
@@ -14,14 +14,13 @@
                 }
 
                 .container {
-                    width: 100%;
-
+                    color: black;
                     display: flex;
-                    color: white;
                     align-items: left;
                     justify-content: left;
-
                     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                    width: fit-content;
+                    height: fit-content;
                 }
 
                 .hi {
@@ -33,6 +32,18 @@
                 @media (prefers-reduced-motion) {
                     .hi {
                         animation: none;
+                    }
+                }
+
+                @media (prefers-color-scheme: dark, no-preference) {
+                    .container {
+                        color: white;
+                    }
+                }
+
+                @media (prefers-color-scheme: light) {
+                    .container {
+                        color: black;
                     }
                 }
             </style>
