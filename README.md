@@ -18,7 +18,9 @@
   <img src="top.svg" alt="Click to see the source">
 </div>
 
+<section align="center">
 I'm a software developer who enjoys working with a variety of programming languages and challenges. I love data science and programming interesting and fun software projects. I enjoy building projects that might be useful to others or just serve as a fun personal challenge. In my free time, I love playing table tennis and exploring new opportunities!
+</section>
 
 <br/>
 
@@ -36,7 +38,29 @@ I'm a software developer who enjoys working with a variety of programming langua
     </picture>
 </section>
 
-</br>
+<br/>
+
+<section align="center">
+    <h2>Skill Set</h2>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</section>
+
+<br/>
+
+<section align="center">
+  <img src="mid.svg" width=100% alt="Click to see the source">
+</div>
+
+<br/>
 
 <section align="center">
     <picture align="left">
@@ -76,6 +100,13 @@ I'm a software developer who enjoys working with a variety of programming langua
     />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=lulrai&theme=radical&hide_border=true" />
     </picture>
+</section>
+
+<section align="center">
+    <h3>References / Credits</h3>
+    <b>GIFs:</b> <a href="https://pixelscapes.tumblr.com/image/183996590892">Dark Mode</a> / <a href="https://boingboing.net/2015/07/27/gorgeous-animated-pixel-art-de.html/amp">Light Mode</a><br/>
+    <b>GitHub Stats:</b> <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> / <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a><br/>
+    <b>Counters:</b> <a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a><br/>
 </section>
 
 <!--
