@@ -1,16 +1,71 @@
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <div id="container" align="center">
-                <div width="50px" align="left">
-                <h3>Interests</h3>
-                &nbsp;&nbsp; 🌱 Test <br/>
-                &nbsp;&nbsp; 🌱 Test
+            <style>
+                #container {
+                    display: flex;
+                    flex-flow: row nowrap;
+                    justify-content: center;
+                    columns: 2;
+                    gap: 100px;
+                }
+
+                #container ul {
+                    max-width: 100%;
+                    margin-right: 15px;
+                }
+
+                #container ul li {
+                    list-style: none;
+                    color: #6493E9;
+                    padding: 0;
+                    display: flex;
+                    margin-left: -30px;
+                    margin-top: 10px;
+
+                }
+
+                <!-- #container ul li::before {
+                    content: "🌱 ";
+                    margin-top: -4px
+                } -->
+
+                #container ul li span {
+                    margin-left: 10px;
+                    margin-top: -4px;
+                }
+
+                h2 {
+                    text-align: center;
+                    margin: 0;
+                    color: #C8487C;
+                }
+            </style>
+
+            <div id="container">
+                <div>
+                    <h2>Interests / Hobbies</h2>
+                    <ul>
+                        <li><span id="pre">🌱 </span>Test</li>
+                        <li><span id="pre">🌱 </span>Test Second</li>
+                        <li><span id="pre">🌱 </span>Test Third</li>
+                    </ul>
                 </div>
-                <div width="50px" align="left">
-                <h3>Hobbies</h3>
-                &nbsp;&nbsp; 🌱 Test <br/>
-                &nbsp;&nbsp; 🌱 Test
+                <div>
+                    <h2>Skill Set</h2>
+                    <ul>
+                        <li><span id="pre">🌱 </span>Test</li>
+                        <li><span id="pre">🌱 </span>Test Second</li>
+                        <li><span id="pre">🌱 </span>Test Third</li>
+                    </ul>
+                </div>
+                <div>
+                    <h2>Tech Stack</h2>
+                    <ul>
+                        <li><span id="pre">🌱 </span>Test</li>
+                        <li><span id="pre">🌱 </span>Test Second</li>
+                        <li><span id="pre">🌱 </span>Test Third</li>
+                    </ul>
                 </div>
             </div>
         </div>
