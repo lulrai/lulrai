@@ -1,7 +1,16 @@
-<div style="width:100%">
-    <img src="https://media.tenor.com/ommRkBKPWAsAAAAC/anime.gif" width=100%>
-    </img>
-</div>
+<section align="width:100%">
+    <picture>
+        <source 
+        srcset="https://64.media.tumblr.com/b6998c3c158779b040ff02e0a09f8960/tumblr_pp11oxf7Jp1wwjnmro1_1280.gif"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        />
+        <source
+        srcset="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/07/tumblr_nm6j1ghB7C1qze3hdo1_500.gif"
+        media="(prefers-color-scheme: light)"
+        />
+        <img src="https://64.media.tumblr.com/b6998c3c158779b040ff02e0a09f8960/tumblr_pp11oxf7Jp1wwjnmro1_1280.gif" width=100% />
+    </picture>
+</section>
 
 <br/>
 
