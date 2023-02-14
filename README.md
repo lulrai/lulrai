@@ -20,7 +20,7 @@
 
 I'm a software developer who enjoys working with a variety of programming languages and challenges. I love data science and programming interesting and fun software projects. I enjoy building projects that might be useful to others or just serve as a fun personal challenge. In my free time, I love playing table tennis and exploring new opportunities!
 
-
+<br/>
 
 <section align="center">
     <picture>
