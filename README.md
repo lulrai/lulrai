@@ -46,8 +46,6 @@ I'm a software developer who enjoys working with a variety of programming langua
   <img src="mid.svg" width=100% alt="Click to see the source">
 </section>
 
-<br/>
-
 <section align="center">
     <h2>Contacts</h2>
 
