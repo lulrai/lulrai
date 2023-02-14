@@ -40,28 +40,25 @@ I'm a software developer who enjoys working with a variety of programming langua
 
 <br/>
 
+<h2 align="center">Who? What? Where?</h2>
+
 <section align="center">
-    <h2>Skill Set</h2>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <img src="mid.svg" width=100% alt="Click to see the source">
 </section>
 
 <br/>
 
 <section align="center">
-  <img src="mid.svg" width=100% alt="Click to see the source">
-</div>
+    <h2>Contacts</h2>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-nneupane2-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nneupane2/)](https://www.linkedin.com/in/nneupane2/)
+[![Gmail Badge](https://img.shields.io/badge/-neupanenischal1@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:neupanenischal1@gmail.com)](mailto:neupanenischal1@gmail.com)
+
+</section>
 
 <br/>
 
+<h2 align="center">GitHub Info </h2>
 <section align="center">
     <picture align="left">
         <source 
@@ -108,18 +105,3 @@ I'm a software developer who enjoys working with a variety of programming langua
     <b>GitHub Stats:</b> <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> / <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a><br/>
     <b>Counters:</b> <a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a><br/>
 </section>
-
-<!--
-**lulrai/lulrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
