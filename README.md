@@ -1,4 +1,4 @@
-<section align="width:100%">
+<section width=100%>
     <picture>
         <source 
         srcset="https://64.media.tumblr.com/b6998c3c158779b040ff02e0a09f8960/tumblr_pp11oxf7Jp1wwjnmro1_1280.gif"
@@ -14,11 +14,13 @@
 
 <br/>
 
-<div>
-  <img src="top.svg" style="width: 100%;" alt="Click to see the source">
+<section align="center">
+  <img src="top.svg" alt="Click to see the source">
 </div>
 
 I'm a software developer who enjoys working with a variety of programming languages and challenges. I love data science and programming interesting and fun software projects. I enjoy building projects that might be useful to others or just serve as a fun personal challenge. In my free time, I love playing table tennis and exploring new opportunities!
+
+
 
 <section align="center">
     <picture>
