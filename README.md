@@ -81,7 +81,7 @@ I'm a software developer who enjoys working with a variety of programming langua
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulrai&hide=Jupyter+Notebook&layout=compact&langs_count=6&custom_title=Language+I+Seem+To+Like&theme=radical&hide_border=True" />
     </picture>
 </section>
-<section align="center">
+<!-- <section align="center">
     <picture>
     <source 
     srcset="http://github-readme-streak-stats.herokuapp.com?user=lulrai&theme=radical&hide_border=true"
@@ -95,7 +95,7 @@ I'm a software developer who enjoys working with a variety of programming langua
     />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=lulrai&theme=radical&hide_border=true" />
     </picture>
-</section>
+</section> -->
 
 <section align="center">
     <h3>References / Credits</h3>
